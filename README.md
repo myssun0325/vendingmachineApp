@@ -14,7 +14,7 @@
 		- 그 외에 Beverage객체들...(타입과 이름과 가격을 가지고 있음)
 
 * [앱프로그래밍 가이드 - 앱 라이프 사이클](https://developer.apple.com/library/archive/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/TheAppLifeCycle/TheAppLifeCycle.html#//apple_ref/doc/uid/TP40007072-CH2-SW1)
-* [앱의 초기화 UIApplicationMain()함수](docs/앱의초기화(main).md)
+* [앱의 초기화 UIApplicationMain()함수](docs/앱의초기화.md)
 
 ## Step. 2
 * 요구사항
